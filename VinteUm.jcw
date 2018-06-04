@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>VinteUm</label>
+	</settings>
+	<users>
+		<user>
+			<path>VinteUm.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\GeraClasse\GeraClasse.jcp</path>
+		</project>
+	</projects>
+</workspace>

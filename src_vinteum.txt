@@ -1,0 +1,5 @@
+C:\VinteUm\src\Baralho.java
+C:\VinteUm\src\Carta.java
+C:\VinteUm\src\CartaComparator.java
+C:\VinteUm\src\FrmVinteum.java
+C:\VinteUm\src\Poker.java
